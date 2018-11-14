@@ -9,8 +9,8 @@ const cat={
 }
 
 
-// Poniżej funkcja jak działa object.obhectCreate
-// function obhectCreate(proto){
+// Poniżej funkcja jak działa object.objectCreate
+// function objectCreate(proto){
 //     const obj={}
 //     Object.setPrototypeOf(obj,proto)
 //     return obj

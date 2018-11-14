@@ -13,7 +13,7 @@ dog.talk()
 //  boundFunction()//'woof
 
 
- let button= document.getElementById('MyNiceButton')
+ let button= document.getElementById('MyButton')
 
  button.addEventListener(
      'click',

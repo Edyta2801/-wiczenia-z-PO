@@ -10,6 +10,7 @@ let animal={
 let cat={
     sound:'meow'
 }
+
 Object.setPrototypeOf(cat, animal)
 cat.talk()//'meow'
 
