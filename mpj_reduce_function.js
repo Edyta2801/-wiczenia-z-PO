@@ -11,13 +11,13 @@ for (let i=0; i<orders.length; i++){
 }
 
 
-let totalAmount=orders.reduce(function(sum, order){
-    return sum +order.amount
-},0)
+// let totalAmount=orders.reduce(function(sum, order){
+//     return sum +order.amount
+// },0)
 
 
-let totalAmount=orders.reduce((sum, order)=>sum +order.amount
-,0)
+// let totalAmount=orders.reduce((sum, order)=>sum +order.amount
+// ,0)
 
 
 console.log(totalAmount)
